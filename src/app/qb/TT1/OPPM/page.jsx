@@ -11,7 +11,7 @@ const Dsa = () => {
   return (
     <div>
       <div style={{ ...containerStyle }}>
-        <h1 className="middleTitle">OOPM QB TT2</h1>
+        <h1 className="middleTitle">OOPM QB TT1</h1>
       </div>
       <div style={containerStyle}>
         <h3>For AI-DS Department</h3>

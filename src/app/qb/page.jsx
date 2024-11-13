@@ -51,7 +51,7 @@ const Notes = () => {
         >
           <h1 className="middleTitle">Question Bank</h1>
         </div>
-        <Buttons />
+        {/* <Buttons /> */}
         <div className="filter-list-container">
           <h3>Year</h3>
           {renderFilterOptions("department", ["All", "FY", "Comps", "AI-DS"])}
