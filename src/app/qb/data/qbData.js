@@ -69,7 +69,7 @@ const qbData = [
         "semester": "Sem3",
         "subject": "AEM-1",
         "title": "AME1 QB - TT1",
-        "link": "https://internal-territory-dee.notion.site/Maths-3-d1f7edfe92fe478f9dd9ae962a7421d6?pvs=4"
+        "link": "qb/TT1/M3"
     },
     {
         "id": 10,

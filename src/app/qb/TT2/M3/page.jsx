@@ -11,22 +11,22 @@ const Dsa = () => {
   return (
     <div>
       <div style={{ ...containerStyle }}>
-        <h1 className="middleTitle">DAA/AOA QB</h1>
+        <h1 className="middleTitle">Maths TT2 QB</h1>
       </div>
       <div style={containerStyle}>
-        <h3>For AI-DS & Comps Department</h3>
+        <h3>For All Departments</h3>
       </div>
       <div style={{ ...containerStyle, textAlign: 'center', fontSize: '16px', fontFamily: 'monospace' }}>
         <p>
           ⚠️ I&apos;ve solved these questions, but no guarantee of accuracy or marks. Review carefully and verify with other sources!
         </p> 
         </div>
-        <div style={{ ...containerStyle, textAlign: 'center', fontSize: '16px', fontFamily: 'monospace' }}>
+        {/* <div style={{ ...containerStyle, textAlign: 'center', fontSize: '16px', fontFamily: 'monospace' }}>
         <img src="/rotate-phone.png" alt="p" style={{width: '30px'}}/>
         <p>
             Rotate phone for better experience
         </p>
-      </div>
+      </div> */}
       <div style={containerStyle}>
       <iframe
           src="https://docs.google.com/document/d/e/2PACX-1vTO2NbeqHB6G_AdKWHXFbEdBEYczfbse1_1bcgx5mCyk8Q4xGgLc6UB3VHi_kv8uakpJwwCAqn-kh2H/pub?embedded=true"
