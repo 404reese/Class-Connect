@@ -71,14 +71,7 @@ const qbData = [
         "title": "AME1 QB - TT1",
         "link": "qb/TT1/M3"
     },
-    {
-        "id": 10,
-        "department": "AI-DS",
-        "semester": "Sem3",
-        "subject": "OOPM",
-        "title": "OOPM QB - TT1",
-        "link": "qb/TT1/OOPM"
-    },
+    
     {
         "id": 11,
         "department": "AI-DS",
