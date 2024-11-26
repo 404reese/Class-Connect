@@ -23,19 +23,15 @@ const Dsa = () => {
         </div>
         <div style={{ ...containerStyle, textAlign: 'center', fontSize: '16px', fontFamily: 'monospace' }}>
         <p>
-        🔃  <span style={{fontWeight:'bold'}}>Hard-refresh</span> page for updated content
+        <span style={{fontWeight:'bold'}}>Hard-refresh</span> page for updated content
         </p>
       </div>
       <div style={containerStyle}>
-      <iframe
-          src="https://appflowy.com/06d5df1f-1c4d-4d92-8138-2d09beb3d7ae/OOPM-TT1-a1f9e997-d6bb-460f-b10f-bee9554d1da9"
-          frameBorder="0"
-          style={{ maxWidth: '830px', height: '1200px', width: '100%', display: 'block' }} // Adjust height as needed
-          title="DSA Document"
-        />
+      <iframe style={{width: '100%', height: '1200px', border: '2px solid #ccc', borderRadius: '10px'}} src="https://v2-embednotion.com/818588d0d2b4456bbae163237f0f52f0"></iframe>
       </div>
     </div>
   );
 };
 
 export default Dsa;
+

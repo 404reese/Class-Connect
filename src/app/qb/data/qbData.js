@@ -71,7 +71,14 @@ const qbData = [
         "title": "AME1 QB - TT1",
         "link": "qb/TT1/M3"
     },
-    
+    {
+        "id": 10,
+        "department": "AI-DS",
+        "semester": "Sem3",
+        "subject": "OOPM",
+        "title": "OOPM TT1 QB",
+        "link": "qb/TT1/OOPM"
+    },
     {
         "id": 11,
         "department": "AI-DS",
@@ -80,14 +87,7 @@ const qbData = [
         "title": "DSDS TT1 QB",
         "link": "https://internal-territory-dee.notion.site/DSDS-f6c1861b4c184b0fa59e849dc6854d47?pvs=4"
     },
-    {
-        "id": 12,
-        "department": "AI-DS",
-        "semester": "Sem3",
-        "subject": "OOPM",
-        "title": "OOPM TT1 QB",
-        "link": "https://internal-territory-dee.notion.site/OOPM-818588d0d2b4456bbae163237f0f52f0?pvs=4"
-    },
+    
     {
         "id": 13,
         "department": "AI-DS",
