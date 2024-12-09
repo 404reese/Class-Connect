@@ -1,0 +1,75 @@
+.page {
+    padding: 20px;
+  }
+  
+  .titleContainer {
+    text-align: center;
+    margin-bottom: 10px; /* Reduced space between titles */
+  }
+  
+  .middleTitle {
+    font-size: 36px;
+    font-weight: bold;
+    color: #fff; 
+    text-align: center;
+    background-color:  rgba(255, 255, 255, 0.3); 
+    padding: 10px; 
+    border-radius: 10px;
+    font-family: 'Kaisei Tokumin', sans-serif;
+    display: inline-block; 
+    margin: 25px 0px 25px 0px;     /* top right bottom left */
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.8);
+  }
+  .teamContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    background-color: #3D3D40; /* Dark gray background */
+    border: 1px solid #444; /* Slightly darker border */
+    padding: 16px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    margin: 16px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .card:hover {
+    background-color: #5A5A5D; /* Lighter gray on hover */
+  }
+  
+  .productImage {
+    border-radius: 8px;
+  }
+  
+  .productName {
+    font-size: 18px;
+    margin: 12px 0;
+    color: white; /* Ensure text is visible on dark background */
+  }
+  
+  .productPrice {
+    font-size: 16px;
+    color: #f1f1f1; /* Light gray for better contrast */
+  }
+  
+  .enquireButton {
+    padding: 8px 16px;
+    background-color: #94908C;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-family: 'Kaisei Tokumin', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+  }
+  
+  .enquireButton:hover {
+    background-color: #DDD6CE;
+    color: #3D3D40;
+  }
