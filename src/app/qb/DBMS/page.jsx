@@ -24,9 +24,9 @@ const OS = () => {
       </div>
       <div style={containerStyle}>
       <iframe
-          src="https://appflowy.com/06d5df1f-1c4d-4d92-8138-2d09beb3d7ae/DBMS-TT1-QB-4bdadc2c-cb1b-4f1b-b9d6-d3e275f4f77d"
+          src="https://any.coop/A9PiTECq5wcvcW2mpVNq9dW9bephteMLZFd4fwbSqetBnJgL/dbms"
           frameBorder="0"
-          style={{ maxWidth: '830px', height: '1000px', width: '100%', display: 'block' }} // Adjust height as needed
+          style={{ height: '1000px', width: '100%', display: 'block' }} // Adjust height as needed
           title="DBMS Document"
         />
       </div>
