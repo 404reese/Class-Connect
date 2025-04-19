@@ -11,6 +11,14 @@ const qbData = [
         "id": 1,
         "department": "AI-DS",
         "semester": "Sem4",
+        "subject": "OS",
+        "title": "OS TT2 QB sol",
+        "link": "qb/TT2/OS"
+    },
+    {
+        "id": 1,
+        "department": "AI-DS",
+        "semester": "Sem4",
         "subject": "DBMS",
         "title": "DBMS TT1 QB",
         "link": "qb/DBMS"
