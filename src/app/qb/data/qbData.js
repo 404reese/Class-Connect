@@ -4,6 +4,14 @@ const qbData = [
         "department": "AI-DS",
         "semester": "Sem4",
         "subject": "DBMS",
+        "title": "DBMS VIVA LMR sheet",
+        "link": "qb/DBMS/VIVA"
+    },
+    {
+        "id": 1,
+        "department": "AI-DS",
+        "semester": "Sem4",
+        "subject": "DBMS",
         "title": "DBMS TT2 QB sol",
         "link": "qb/TT2/DBMS"
     },

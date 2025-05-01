@@ -11,10 +11,10 @@ const DBMSLMR = () => {
   return (
     <div>
       <div style={{ ...containerStyle }}>
-        <h1 className="middleTitle">DBMS TT2</h1>
+        <h1 className="middleTitle">DBMS VIVA LMR</h1>
       </div>
       <div style={containerStyle}>
-        <h3>Question Bank Solution</h3>
+        <h3></h3>
       </div>
         <div style={{ ...containerStyle, textAlign: 'center', fontSize: '16px', fontFamily: 'monospace' }}>
         <img src="/rotate-phone.png" alt="p" style={{width: '30px'}}/>
