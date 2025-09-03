@@ -2,6 +2,38 @@ const qbData = [
     {
         "id": 1,
         "department": "AI-DS",
+        "semester": "Sem5",
+        "subject": "DWM",
+        "title": "DWM TT1 QB",
+        "link": "qb/TT1/DWM"
+    },
+    {
+        "id": 1,
+        "department": "AI-DS",
+        "semester": "Sem5",
+        "subject": "IVP",
+        "title": "IVP TT1 QB",
+        "link": "qb/TT1/IVP"
+    },
+    {
+        "id": 1,
+        "department": "AI-DS",
+        "semester": "Sem5",
+        "subject": "ML",
+        "title": "ML TT1 QB",
+        "link": "qb/TT1/ML"
+    },
+    {
+        "id": 1,
+        "department": "AI-DS",
+        "semester": "Sem5",
+        "subject": "ITC",
+        "title": "ITC TT1 QB",
+        "link": "qb/TT1/ITC"
+    },
+    {
+        "id": 1,
+        "department": "AI-DS",
         "semester": "Sem4",
         "subject": "DBMS",
         "title": "DBMS VIVA LMR sheet",
