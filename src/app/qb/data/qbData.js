@@ -21,7 +21,7 @@ const qbData = [
         "semester": "Sem5",
         "subject": "ML",
         "title": "ML TT1 QB",
-        "link": "qb/TT1/ML"
+        "link": "qb/ML"
     },
     {
         "id": 1,
@@ -29,7 +29,7 @@ const qbData = [
         "semester": "Sem5",
         "subject": "ITC",
         "title": "ITC TT1 QB",
-        "link": "qb/TT1/ITC"
+        "link": "qb/ITC"
     },
     {
         "id": 1,
