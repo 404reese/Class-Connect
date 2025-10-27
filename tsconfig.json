@@ -35,7 +35,7 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts"
-, "src/app/resources/react/page.jsx"  ],
+, "src/app/resources/react/page.jsx", "src/app/qb/TT2/ITC/page.jsx"  ],
   "exclude": [
     "node_modules"
   ]
